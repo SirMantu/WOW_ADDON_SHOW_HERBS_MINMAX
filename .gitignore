@@ -1,0 +1,9 @@
+# release build
+ShowHerbsMinMax.zip
+ShowHerbsMinMax/
+
+# editor
+.vscode/
+
+# development notes, not part of the addon
+ANALYSIS.md

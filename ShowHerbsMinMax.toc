@@ -1,0 +1,9 @@
+## Interface: 11509, 16001
+## Title: ShowHerbsMinMax
+## Notes: Shows an icon above the nearest herb, ore vein or skinnable corpse. Minimap button with options and icon size.
+## Author: Manuel Metzger
+## Version: 1.0.0
+## X-Source: https://github.com/SirMantu/WOW_ADDON_SHOW_HERBS_MINMAX
+## SavedVariables: ShowHerbsMinMaxDB
+
+ShowHerbsMinMax.lua
